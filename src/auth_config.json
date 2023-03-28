@@ -1,0 +1,7 @@
+{
+  "domain": "dev-bvyp5kpmxea26ie0.us.auth0.com",
+  "clientId": "3xUjyc4wOXDApBlIA9vHLcQYJ94Rdmdb",
+  "audience": "https://dev-bvyp5kpmxea26ie0.us.auth0.com/api/v2/",
+  "clientSecret": "GEtwv8eVWhcISfS9RmK8PvLJ6bSM-zuFgYF90ArmtBS80oW_BdNGwu-etLWnoXIk",
+  "scope": "openid profile email read:clients"
+}
